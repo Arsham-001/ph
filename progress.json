@@ -904,7 +904,7 @@
   "cb_300_g": false,
   "cb_301_r": false,
   "cb_301_a": false,
-  "cb_301_g": false,
+  "cb_301_g": true,
   "cb_302_r": false,
   "cb_302_a": true,
   "cb_302_g": false,
